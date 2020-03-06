@@ -6,7 +6,7 @@
 
 The combinatorial coworkspace takes place here.
 
-$$\sqrt{2}$$
+$$\sqrt{5}$$
 
 $\sqrt{2}$
 
